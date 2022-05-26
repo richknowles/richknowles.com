@@ -210,8 +210,7 @@ Third paragraph of definition 2.
 
 Term 1   ~ Definition 1
 
-Term 2   \~ Definition 2a
-  \~ Definition 2b
+Term 2   \~ Definition 2a   \~ Definition 2b
 
 ### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
 
@@ -223,8 +222,7 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 
 ### [Custom containers](https://github.com/markdown-it/markdown-it-container)
 
-::: warning *here be dragons* :::---
-**Advertisement :)**
+::: warning *here be dragons* :::--- **Advertisement :)**
 
 * **[pica](https://nodeca.github.io/pica/demo/)** - high quality and fast image resize in browser.
 * **[babelfish](https://github.com/nodeca/babelfish/)** - developer friendly i18n with plurals support and easy syntax.
@@ -373,6 +371,8 @@ Like links, Images also have a footnote style syntax
 
 ![Alt text](https://octodex.github.com/images/dojocat.jpg "The Dojocat")
 
+![](/assets/Despair Bear_v1.0_2022SophieHenandez.PNG)
+
 With a reference later in the document defining the URL location:
 
 ## Plugins
@@ -438,8 +438,7 @@ Third paragraph of definition 2.
 
 Term 1   ~ Definition 1
 
-Term 2   \~ Definition 2a
-  \~ Definition 2b
+Term 2   \~ Definition 2a   \~ Definition 2b
 
 ### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
 
