@@ -3,7 +3,7 @@ template: BlogPost
 path: /video-post
 date: 2020-02-20T15:05:49.332Z
 title: Post with Youtube Video embed
-thumbnail: /assets/Red Guitar.jpg
+thumbnail: /assets/Rich Robot emk rk √er 3 052822.png
 ---
 I have embedded a youtude video in this page. By adding HTML to the markdown
 
