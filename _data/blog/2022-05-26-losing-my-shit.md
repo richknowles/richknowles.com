@@ -1,8 +1,8 @@
 ---
 template: BlogPost
-path: /losingmyshit
+path: /atwork
 date: 2022-05-26T21:37:11.701Z
-title: Losing My Shit
+title: At Work
 thumbnail: /assets/MOBO.jpeg
 ---
-Where the fuck is this???
+Huh
